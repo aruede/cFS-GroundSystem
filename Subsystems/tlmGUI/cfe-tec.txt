@@ -1,4 +1,6 @@
 #
 Command Counter,        12,  1,  B, Dec, NULL,        NULL,        NULL,       NULL
 CommandErrorCounter,    13,  1,  B, Dec, NULL,        NULL,        NULL,       NULL  
-Temperature,            14,  1,  B, Dec, NULL,        NULL,        NULL,       NULL  
+Reserved,               14,  1,  B, Dec, NULL,        NULL,        NULL,       NULL  
+Unit,                   15,  1,  s, Str, NULL,        NULL,        NULL,       NULL  
+Temperature,            16,  4,  I, Dec, NULL,        NULL,        NULL,       NULL  
