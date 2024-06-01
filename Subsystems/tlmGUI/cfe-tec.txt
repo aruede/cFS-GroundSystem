@@ -1,0 +1,4 @@
+#
+Command Counter,        12,  1,  B, Dec, NULL,        NULL,        NULL,       NULL
+CommandErrorCounter,    13,  1,  B, Dec, NULL,        NULL,        NULL,       NULL  
+Temperature,            14,  1,  B, Dec, NULL,        NULL,        NULL,       NULL  

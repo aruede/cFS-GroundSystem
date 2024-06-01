@@ -1,0 +1,5 @@
+#
+Command Counter,        12,  1,  B, Dec, NULL,        NULL,        NULL,       NULL
+CommandErrorCounter,    13,  1,  B, Dec, NULL,        NULL,        NULL,       NULL
+reserved,               14,  1,  B, Dec, NULL,        NULL,        NULL,       NULL
+reserved,               15,  1,  B, Dec, NULL,        NULL,        NULL,       NULL
